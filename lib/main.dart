@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Responsive Auth - The Flutter Way',
       theme: ThemeData(
-        primaryColor: kPrimaryColor,
+        primaryColor: primaryColor,
         scaffoldBackgroundColor: Colors.white,
       ),
       home: const WelcomeScreen(),
